@@ -1,0 +1,31 @@
+1657633029316	geckodriver	INFO	Listening on 127.0.0.1:53365
+1657633029468	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53366" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/vm/q9yrl3mx1xq2v8vx33_lx7rm0000gp/T/rust_mozprofileHCDFOA"
+1657633030755	Marionette	INFO	Marionette enabled
+2022-07-12 19:07:10.975 plugin-container[5868:196760] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-12 19:07:10.976 plugin-container[5868:196760] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-12 19:07:11.025 plugin-container[5868:196760] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-12 19:07:11.026 plugin-container[5868:196760] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-12 19:07:11.026 plugin-container[5868:196762] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-12 19:07:11.026 plugin-container[5868:196762] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1657633031066	Marionette	INFO	Listening on port 53381
+WebDriver BiDi listening on ws://localhost:53366
+Read port: 53381
+1657633031281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/vm/q9yrl3mx1xq2v8vx33_lx7rm0000gp/T/rust_mozprofileHCDFOA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53366/devtools/browser/4ae2446e-f59d-454f-90e5-619c1261fc57
+JavaScript error: https://simplus-mdm-uat.moreconnect.co.in/static/assets/plugins/global/plugins.bundle.js, line 14979: TypeError: e is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simplus-mdm-uat.moreconnect.co.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simplus-mdm-uat.moreconnect.co.in"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simplus-mdm-uat.moreconnect.co.in"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simplus-mdm-uat.moreconnect.co.in"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+2022-07-12 13:37:21.332 plugin-container[5880:197207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-12 13:37:21.333 plugin-container[5880:197207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-12 13:37:21.343 plugin-container[5880:197207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-12 13:37:21.343 plugin-container[5880:197207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-07-12 13:37:21.344 plugin-container[5880:197206] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-07-12 13:37:21.344 plugin-container[5880:197206] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://simplus-mdm-uat.moreconnect.co.in/static/assets/plugins/global/plugins.bundle.js, line 14979: TypeError: e is null
+1657633045085	Marionette	INFO	Stopped listening on port 53381
